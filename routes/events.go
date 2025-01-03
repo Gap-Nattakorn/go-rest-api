@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"example.com/go-rest-api/models"
+	"github.com/Gap-Nattakorn/go-rest-api/models"
 	"github.com/gin-gonic/gin"
 )
 

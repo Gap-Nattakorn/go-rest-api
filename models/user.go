@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"example.com/go-rest-api/db"
-	"example.com/go-rest-api/utils"
+	db "github.com/Gap-Nattakorn/go-rest-api/db"
+	utils "github.com/Gap-Nattakorn/go-rest-api/utils"
 )
 
 type User struct {

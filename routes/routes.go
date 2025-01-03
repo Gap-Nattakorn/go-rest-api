@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"example.com/go-rest-api/middlewares"
+	"github.com/Gap-Nattakorn/go-rest-api/middlewares"
 	"github.com/gin-gonic/gin"
 )
 

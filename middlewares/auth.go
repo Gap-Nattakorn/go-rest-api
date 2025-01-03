@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"example.com/go-rest-api/utils"
+	"github.com/Gap-Nattakorn/go-rest-api/utils"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"example.com/go-rest-api/db"
-	"example.com/go-rest-api/routes"
+	"github.com/Gap-Nattakorn/go-rest-api/db"
+	"github.com/Gap-Nattakorn/go-rest-api/routes"
 	"github.com/gin-gonic/gin"
 )
 

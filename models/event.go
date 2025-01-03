@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"example.com/go-rest-api/db"
+	"github.com/Gap-Nattakorn/go-rest-api/db"
 )
 
 type Event struct {
